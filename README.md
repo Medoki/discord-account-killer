@@ -1,4 +1,4 @@
-#discord-account-killer
+
 It's **not** for destroy other peoples account , just your's
 
 
